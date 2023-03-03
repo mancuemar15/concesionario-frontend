@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
+html,
+body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Inter', sans-serif;
+}
+
+.form-control {
+	color: #000 !important;
+}
+
+.cabecera {
+	background-color: #0648b3;
+}
+
+.patron {
+	position: absolute;
+	width: 100%;
+	background-color: #0648b3;
+	background-image: url("/img/wave.svg");
+	background-repeat: repeat-x;
+	background-position: bottom;
+	background-size: 1450px 205px;
+	height: 0;
+	padding: 0;
+	padding-bottom: 148px;
+	transform: rotate(180deg);
+}
+
+@media (max-width: 992px) {
+	.patron {
+		background-size: 770px 235px;
+		padding-bottom: 140px;
+	}
+}
