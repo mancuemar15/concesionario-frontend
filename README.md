@@ -1,2 +1,2 @@
 # concesionario-frontend
-Frontend del proyecto del concesionario creado utilizando Svelte.
+Frontend del proyecto del  concesionario creado utilizando Svelte.
