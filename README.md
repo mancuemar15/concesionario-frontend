@@ -1,2 +1,4 @@
 # concesionario-frontend
-Frontend de la aplicación del concesionario creado utilizando Svelte.
+Frontend del proyecto del concesionario creado utilizando Svelte.
+
+Cambio realizado en rama-prueba.
