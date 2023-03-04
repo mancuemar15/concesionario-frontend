@@ -28,7 +28,7 @@
                 <p class="text-light m-0">
                     Código fuente en
                     <a
-                        href="https://github.com/mancuemar15/concesionariofrontend"
+                        href="https://github.com/mancuemar15/concesionario-frontend"
                         target="_blank"
                         rel="noreferrer">GitHub</a
                     >
