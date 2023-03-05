@@ -1,0 +1,7 @@
+{
+    "docwriter.style": "Auto-detect",
+    "docify.commentService.docstringFormat": "JavaDoc",
+    "docify.commentService.autoTranslationService": "Spanish",
+    "docify.commentService.sidePanelReviewMode": true,
+    "docify.translateService.targetLanguage": "Spanish"
+}
