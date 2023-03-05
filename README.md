@@ -741,9 +741,6 @@ La aplicación ha sido desarrollada con las siguientes tecnologías:
 - **Node.js**: Entorno de ejecución de JavaScript que nos permite ejecutarlo fuera del navegador.
 - **npm**: Gestor de paquetes para administrar las dependencias de las librerías y paquetes externos.
 
-
-
-
 ## Despliegue en Vercel
 
 Este frontend no contiene código de servidor, es decir, no contiene código para backend. Por lo tanto, podemos desplegarlo como hariamos con cualquier página HTML. Para este despligue, vamos a utilizar **[vercel](https://vercel.com)**. 
