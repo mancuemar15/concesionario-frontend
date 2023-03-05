@@ -755,7 +755,7 @@ Realizaremos el despliegue mediante interfaz de texto. A continuación se muestr
 npm install -g vercel
 ```
 
-2. Luego, desde la carpeta de tu proyecto iniciamos sesión:
+2. Luego, desde la carpeta de tu proyecto inicia sesión:
 
 ```console
 vercel login
