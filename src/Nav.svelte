@@ -15,7 +15,7 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
     <div class="container-fluid">
         <Link class="navbar-brand mx-sm-4" to="/">
-            <images
+            <img
                 class="logo"
                 src="images/logo-concesionario.svg"
                 alt="Logo del concesionario"
