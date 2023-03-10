@@ -14,9 +14,9 @@
                 class="col-md-2 d-flex align-items-center justify-content-center my-4"
                 to="/"
             >
-                <img
+                <images
                     class="logo"
-                    src="img/logo-concesionario.svg"
+                    src="images/logo-concesionario.svg"
                     alt="Logo del concesionario"
                     width="100"
                     height="34"
