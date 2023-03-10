@@ -1,5 +1,5 @@
-//// SERVICE WORKER. Siempre a la escucha en segundo plano.
-//// Aunque el usuario no tenga abierta la página web.
+// SERVICE WORKER. Siempre a la escucha en segundo plano.
+// Aunque el usuario no tenga abierta la página web.
 
 
 // Nombre de la caché
@@ -10,15 +10,11 @@ const CACHE_ASSETS = [
   '/',
   '/index.html',
   '/offline.html',
-  '/favicon.png',
   '/global.css',
   '/build/bundle.css',
   '/build/bundle.js',
-  '/build/bundle.css.map',
   '/build/bundle.js.map',
   '/images/icons/icon-512x512.png',
-  '/assets/menu.svg',
-  '/assets/cerrar.svg'
 ];
 
 // INSTALL
